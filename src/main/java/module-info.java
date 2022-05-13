@@ -1,3 +1,3 @@
-open module srcModule {
+module srcModule {
     exports com;
 }
